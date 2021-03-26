@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tradeco-dev-162215-authRole",
+      "UnauthRoleArn": "arn:aws:iam::312480084385:role/amplify-tradeco-dev-162215-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::312480084385:role/amplify-tradeco-dev-162215-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tradeco-dev-162215-deployment",
+      "UnauthRoleName": "amplify-tradeco-dev-162215-unauthRole",
+      "StackName": "amplify-tradeco-dev-162215",
+      "StackId": "arn:aws:cloudformation:us-east-1:312480084385:stack/amplify-tradeco-dev-162215/65b442f0-8955-11eb-9f4e-0e2d599e16c7",
+      "AmplifyAppId": "d26ymmgf6zmb45"
+    },
+    "categories": {
+      "auth": {
+        "tradecoda353439": {}
+      }
+    }
+  }
+}

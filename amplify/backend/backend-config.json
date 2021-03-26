@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "tradecoda353439": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
